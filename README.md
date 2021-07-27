@@ -1,52 +1,25 @@
 # instagram-Clone
 This a my  instagram clone that i made it via Bootsrap, HTML and CSS
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Type on the input field to see different houses by filtering method. There is a button which you can see more 3 houses on every clicking. Added local img to API.
-
-Limitted amount of data returned from a API call via axios.
-Filtered data with 3 character limit
-See more (functional) button in order to see additional cards on the screen.
-Responsive design
-SCSS and BEM
-Added image url to API call.
-
 [Project-Demo](https://epic-euler-2d87f7.netlify.app)
 
-![Screenshot from 2021-07-23 02-13-59](https://user-images.githubusercontent.com/75113766/126720868-6baddead-d371-4385-bb3c-5edf3a578537.png)
+![ss](https://user-images.githubusercontent.com/49530032/127230157-a4efc8d3-fc6c-4cc7-ae20-8b14e88a7dfe.PNG)
 
 
-#### React Used
-
-* Hooks (useEffect, useState)
-* SCSS
-* AXIOS
-* DOM Manupulations
 
 ### Built With
-* [React](https://www.javascript.com/)
 * [HTML](https://html.com/)
 * [CSS](https://css.com/)
+* [Boostrap](https://www.javascript.com/)
 
 <!-- CONTACT -->
 ## Contact
 
-Furkan Çat - [@FurkanCat](https://twitter.com/FurkanCat) - furi544@gmail.com
+Hüseyin Çetinkaya - [huseyincetinkaya.com](https://huseyincetinkaya.com/) - huseyincknet@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
