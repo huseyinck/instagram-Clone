@@ -5,7 +5,7 @@ This a my  instagram clone that i made it via Bootsrap, HTML and CSS
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Project-Demo](https://epic-euler-2d87f7.netlify.app)
+[Project-Demo](https://zen-poitras-1f7daa.netlify.app/)
 
 ![ss](https://user-images.githubusercontent.com/49530032/127230157-a4efc8d3-fc6c-4cc7-ae20-8b14e88a7dfe.PNG)
 
